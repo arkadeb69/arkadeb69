@@ -53,4 +53,4 @@ A mobile-friendly Flask web application that allows you to lock, sleep, or shutd
 ### 🎨 Background & Experience
 
 While my primary focus is software engineering and web development, I have experience working with visual media:
-* **Freelance Video Editor & Graphic Designer (2022 - 2026):** Collaborated with creators to enhance visual branding, designing YouTube art and editing high-engagement short-form videos using Photoshop and modern editing suites.
+* **Freelance Video Editor & Graphic Designer :** Collaborated with brands and creators, including Pixel&People, Wrongpencilad, and Abir Debnath, creating short-form videos, YouTube visuals, and social media graphics with a focus on quality, branding, and on-time delivery.

@@ -1,6 +1,6 @@
 # Arkadeb Thokdar
 
-Web Developer & Mechanical Engineering Student at CGEC • MLOps & API Security Enthusiast
+Web Developer & Mechanical Engineering Student • MLOps & API Security Enthusiast
 📍 West Bengal, India • ✉️ arkayt30@gmail.com • [LinkedIn](https://www.linkedin.com/in/arkadebthokdar)
 
 I build modern web applications, focusing on AI integrations, serverless architectures, and offline-first client-side systems. Currently pursuing a Bachelor of Technology in Mechanical Engineering at Cooch Behar Government Engineering College (Expected 2029).
@@ -9,7 +9,7 @@ I build modern web applications, focusing on AI integrations, serverless archite
 
 ### 🛠️ Tech Stack & Skills
 
-* **Languages:** JavaScript (ES6+), Python, C, HTML5, CSS3
+* **Languages:** Python, C, C++, HTML5, CSS3
 * **Backend & Infrastructure:** Node.js, Express.js, Flask, Vercel Serverless (Edge Functions), REST APIs
 * **Cloud & Databases:** Firebase (Auth, Firestore, Cloud Storage), Browser LocalStorage API
 * **AI & Integration:** Google Gemini API (structured schema extraction), Resend Email API, MLOps for Generative AI

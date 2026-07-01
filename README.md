@@ -37,7 +37,7 @@ A high-fidelity, offline-first client-side credit bill management portal designe
 * **Core Stack:** React 19, Vite, HTML5, CSS3, Browser LocalStorage API
 * **Technical Highlight:** Built with a deterministic calculation engine that automatically calculates card status tags (Paid, Pending, Partial) and runs a custom mathematical aging system for warning thresholds.
 
-#### [PC Remote Lock (win-remote-toolkit)](https://github.com/arkadeb69/win-remote-toolkit)
+#### [PC Remote Lock](https://github.com/arkadeb69/win-remote-toolkit)
 A mobile-friendly Flask web application that allows you to lock, sleep, or shutdown your Windows PC from any device on your local network or securely from anywhere over the internet.
 * **Core Stack:** Python, Flask, Windows API (win32-api), Cloudflare Tunnels
 * **Technical Highlight:** Triggers system actions via native Windows OS APIs. Securely exposed through a windowless background daemon (VBS runner) and a Cloudflare Tunnel router, complete with PBKDF2/scrypt password hashing protection.

@@ -10,10 +10,10 @@ I build modern web applications, focusing on AI integrations, serverless archite
 ### 🛠️ Tech Stack & Skills
 
 * **Languages:** JavaScript (ES6+), Python, C, HTML5, CSS3
-* **Backend & Infrastructure:** Node.js, Express.js, Vercel Serverless (Edge Functions), REST APIs
+* **Backend & Infrastructure:** Node.js, Express.js, Flask, Vercel Serverless (Edge Functions), REST APIs
 * **Cloud & Databases:** Firebase (Auth, Firestore, Cloud Storage), Browser LocalStorage API
 * **AI & Integration:** Google Gemini API (structured schema extraction), Resend Email API, MLOps for Generative AI
-* **Tools & Security:** Git, GitHub, Vite, Postman, Apigee API Platform
+* **Tools & Security:** Git, GitHub, Vite, Postman, Apigee API Platform, Cloudflare Tunnels
 
 ---
 
@@ -33,6 +33,11 @@ The official photography club portal for Cooch Behar Government Engineering Coll
 A high-fidelity, offline-first client-side credit bill management portal designed for personal finance tracking.
 * **Core Stack:** React 19, Vite, HTML5, CSS3, Browser LocalStorage API
 * **Technical Highlight:** Built with a deterministic calculation engine that automatically calculates card status tags (Paid, Pending, Partial) and runs a custom mathematical aging system for warning thresholds.
+
+#### 🖥️ [PC Remote Lock (win-remote-toolkit)](https://github.com/arkadeb69/win-remote-toolkit)
+A mobile-friendly Flask web application that allows you to lock, sleep, or shutdown your Windows PC from any device on your local network or securely from anywhere over the internet.
+* **Core Stack:** Python, Flask, Windows API (win32-api), Cloudflare Tunnels
+* **Technical Highlight:** Triggers system actions via native Windows OS APIs. Securely exposed through a windowless background daemon (VBS runner) and a Cloudflare Tunnel router, complete with PBKDF2/scrypt password hashing protection.
 
 ---
 

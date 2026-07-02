@@ -64,8 +64,9 @@ Currently pursuing **B.Tech in Mechanical Engineering** at **Cooch Behar Governm
 
 #  Featured Projects
 
-##  Resume X AI
-🔗 https://github.com/arkadeb69/resume-x-ai
+# Featured Projects
+
+## 📄 [Resume X AI](https://github.com/arkadeb69/resume-x-ai)
 
 AI-powered resume analysis platform that compares resumes with job roles, identifies skill gaps, and generates personalized learning roadmaps.
 
@@ -86,8 +87,7 @@ AI-powered resume analysis platform that compares resumes with job roles, identi
 
 ---
 
-##  CGEC Capture Crew Portal
-🔗 https://github.com/arkadeb69/CGEC_Capture_Crew
+## 📸 [CGEC Capture Crew Portal](https://github.com/arkadeb69/CGEC_Capture_Crew)
 
 Official photography club portal featuring recruitment, gallery management, certificate verification, and event showcases.
 
@@ -107,8 +107,7 @@ Official photography club portal featuring recruitment, gallery management, cert
 
 ---
 
-##  Credit Bill Manage
-🔗 https://github.com/arkadeb69/Credit-Bill-manage
+## 💳 [Credit Bill Manage](https://github.com/arkadeb69/Credit-Bill-manage)
 
 Offline-first personal finance dashboard for managing credit cards and bill tracking.
 
@@ -128,8 +127,7 @@ Offline-first personal finance dashboard for managing credit cards and bill trac
 
 ---
 
-##  PC Remote Lock
-🔗 https://github.com/arkadeb69/win-remote-toolkit
+## 🔒 [PC Remote Lock](https://github.com/arkadeb69/win-remote-toolkit)
 
 Remotely lock, sleep, or shutdown a Windows PC securely from any device.
 
@@ -145,20 +143,12 @@ Remotely lock, sleep, or shutdown a Windows PC securely from any device.
 - Native Windows API integration
 - Secure password hashing
 - Background daemon with Cloudflare Tunnel
-
 ---
 
 #  Certifications
 
 - MLOps for Generative AI
 - API Security using Apigee API Platform
-
----
-
-#  Leadership
-
-- Organizing Committee Member
-- Campus Ambassador — Physics Wallah
 
 ---
 

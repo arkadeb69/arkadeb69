@@ -65,7 +65,6 @@ Currently pursuing **B.Tech in Mechanical Engineering** at **Cooch Behar Governm
 
 #  Featured Projects
 
-# Featured Projects
 
 ## 📄 [Resume X AI](https://github.com/arkadeb69/resume-x-ai)
 
